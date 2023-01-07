@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://.github.io/csb-tdhtgb/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://.github.io/csb-tdhtgb/static/js/main.f399465a.chunk.js",
-    "main.js.map": "https://.github.io/csb-tdhtgb/static/js/main.f399465a.chunk.js.map",
+    "main.js": "https://.github.io/csb-tdhtgb/static/js/main.0d75a821.chunk.js",
+    "main.js.map": "https://.github.io/csb-tdhtgb/static/js/main.0d75a821.chunk.js.map",
     "runtime-main.js": "https://.github.io/csb-tdhtgb/static/js/runtime-main.575f349e.js",
     "runtime-main.js.map": "https://.github.io/csb-tdhtgb/static/js/runtime-main.575f349e.js.map",
     "static/js/2.fef78c52.chunk.js": "https://.github.io/csb-tdhtgb/static/js/2.fef78c52.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.575f349e.js",
     "static/js/2.fef78c52.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.f399465a.chunk.js"
+    "static/js/main.0d75a821.chunk.js"
   ]
 }
