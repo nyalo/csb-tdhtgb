@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://nyalo.github.io/csb-tdhtgb/static/css/main.496bf47c.chunk.css",
-    "main.js": "https://nyalo.github.io/csb-tdhtgb/static/js/main.c92e8819.chunk.js",
-    "main.js.map": "https://nyalo.github.io/csb-tdhtgb/static/js/main.c92e8819.chunk.js.map",
+    "main.js": "https://nyalo.github.io/csb-tdhtgb/static/js/main.12840c43.chunk.js",
+    "main.js.map": "https://nyalo.github.io/csb-tdhtgb/static/js/main.12840c43.chunk.js.map",
     "runtime-main.js": "https://nyalo.github.io/csb-tdhtgb/static/js/runtime-main.27f2c521.js",
     "runtime-main.js.map": "https://nyalo.github.io/csb-tdhtgb/static/js/runtime-main.27f2c521.js.map",
-    "static/js/2.8c8c8417.chunk.js": "https://nyalo.github.io/csb-tdhtgb/static/js/2.8c8c8417.chunk.js",
-    "static/js/2.8c8c8417.chunk.js.map": "https://nyalo.github.io/csb-tdhtgb/static/js/2.8c8c8417.chunk.js.map",
+    "static/js/2.d497c036.chunk.js": "https://nyalo.github.io/csb-tdhtgb/static/js/2.d497c036.chunk.js",
+    "static/js/2.d497c036.chunk.js.map": "https://nyalo.github.io/csb-tdhtgb/static/js/2.d497c036.chunk.js.map",
     "index.html": "https://nyalo.github.io/csb-tdhtgb/index.html",
     "static/css/main.496bf47c.chunk.css.map": "https://nyalo.github.io/csb-tdhtgb/static/css/main.496bf47c.chunk.css.map",
-    "static/js/2.8c8c8417.chunk.js.LICENSE.txt": "https://nyalo.github.io/csb-tdhtgb/static/js/2.8c8c8417.chunk.js.LICENSE.txt"
+    "static/js/2.d497c036.chunk.js.LICENSE.txt": "https://nyalo.github.io/csb-tdhtgb/static/js/2.d497c036.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.27f2c521.js",
-    "static/js/2.8c8c8417.chunk.js",
+    "static/js/2.d497c036.chunk.js",
     "static/css/main.496bf47c.chunk.css",
-    "static/js/main.c92e8819.chunk.js"
+    "static/js/main.12840c43.chunk.js"
   ]
 }
